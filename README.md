@@ -1,7 +1,7 @@
 # Sobre mim
 
-- 👋 Olá, meu nome é @arthur8765
-- 👍 Meu email de contato é arthur.figueiredo@escola.pr.gov.br
+- 👋 Olá, meu nome é **@arthur8765**
+- 👍 Meu email de contato é [email](arthur.figueiredo@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
